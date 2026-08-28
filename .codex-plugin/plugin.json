@@ -1,0 +1,18 @@
+{
+  "name": "terrace-bedroom-experience",
+  "version": "0.1.0",
+  "description": "Two explicit, stateless conversation experiences: recollect scattered life scraps or recombine distant old thoughts.",
+  "author": {
+    "name": "Template contributors"
+  },
+  "interface": {
+    "displayName": "露台与卧室",
+    "shortDescription": "乱捞生活碎屑，或让遥远的旧念头相撞",
+    "longDescription": "A self-hostable two-door experience. Terrace shares an unruly handful of grounded scraps and present reactions; bedroom keeps source residue visible while distant thoughts collide into something genuinely new.",
+    "developerName": "Template contributors",
+    "category": "Lifestyle",
+    "capabilities": ["Read"],
+    "defaultPrompt": "打开露台与卧室。",
+    "brandColor": "#6D597A"
+  }
+}

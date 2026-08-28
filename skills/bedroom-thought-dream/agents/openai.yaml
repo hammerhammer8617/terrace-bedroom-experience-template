@@ -1,0 +1,6 @@
+interface:
+  display_name: "卧室｜做一个思想之梦"
+  short_description: "让遥远的旧念头相撞，生成可追溯的新想法"
+  default_prompt: "做个思想之梦吧。"
+policy:
+  allow_implicit_invocation: false

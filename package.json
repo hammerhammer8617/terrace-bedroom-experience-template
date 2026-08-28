@@ -1,0 +1,16 @@
+{
+  "name": "terrace-bedroom-experience-mcp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A stateless, self-hostable MCP doorway for terrace recollection and bedroom thought-dream experiences.",
+  "scripts": {
+    "test": "node --test",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "deploy:dry": "wrangler deploy --dry-run"
+  },
+  "devDependencies": {
+    "wrangler": "^4.127.0"
+  }
+}

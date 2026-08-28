@@ -1,0 +1,6 @@
+interface:
+  display_name: "露台｜乱捞生活碎屑"
+  short_description: "从旧对话里捞一把散乱碎屑，让它们重新进入闲聊"
+  default_prompt: "来一次露台吧。"
+policy:
+  allow_implicit_invocation: false
